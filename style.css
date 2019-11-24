@@ -38,9 +38,9 @@ a {
   font-size: 25px;
   transition: all 0.2s ease;
 }
-ul{       
+ul{
   margin: 0px;
-  list-style: none;   
+  list-style: none;
 }
 li {
   display: inline-block;
@@ -81,6 +81,9 @@ h1 {
   justify-content: space-around;
   margin-top: 5%;
 }
+.circle-bg-yellow {
+  background: yellow;
+}
 .circle-bg-green {
   border: 10px solid green !important;
 }
@@ -96,7 +99,7 @@ h1 {
 }
 .circle .img1 {
   display: block;
-  width: 288px; 
+  width: 288px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -104,7 +107,7 @@ h1 {
 }
 .circle .img2 {
   display: block;
-  width: 224px; 
+  width: 224px;
   position: absolute;
   top: 50%;
   left: 50%;
